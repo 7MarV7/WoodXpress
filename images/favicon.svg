@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .bg { fill: #2E7D32; }
+      .text { fill: white; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; }
+    </style>
+  </defs>
+  
+  <!-- Hintergrund mit abgerundeten Ecken -->
+  <rect width="32" height="32" rx="6" ry="6" class="bg"/>
+  
+  <!-- "W" für WoodXpress -->
+  <text x="16" y="22" text-anchor="middle" class="text">W</text>
+</svg>
