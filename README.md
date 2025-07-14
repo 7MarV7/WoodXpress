@@ -21,8 +21,8 @@ AI support was used only when I didn't know how to implement certain parts.
 
 Sources:
 
-Fonts: Google Fonts -> https://fonts.google.com/
+Fonts: Google Fonts: -> https://fonts.google.com/
 
-Icons: Flaticon     -> https://www.flaticon.com/de/
+Icons: Flaticon:     -> https://www.flaticon.com/de/
 
-
+My Figma Mockup:     -> https://www.figma.com/design/wDxY3zdLqw3bBMi6j1Ssse/WoodXpress?node-id=12-10&t=dOY4jEkKvbxWJaaS-1
