@@ -1,0 +1,58 @@
+/* Custom Fonts */
+@font-face {
+  font-family: 'Montserrat';
+  src: url('assets/fonts/Montserrat-Regular.woff2') format('woff2'),
+    url('assets/fonts/Montserrat-Regular.woff') format('woff'),
+    url('assets/fonts/Montserrat-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('assets/fonts/Montserrat-Bold.woff2') format('woff2'),
+    url('assets/fonts/Montserrat-Bold.woff') format('woff'),
+    url('assets/fonts/Montserrat-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('assets/fonts/Manrope-Regular.woff2') format('woff2'),
+    url('assets/fonts/Manrope-Regular.woff') format('woff'),
+    url('assets/fonts/Manrope-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  src: url('assets/fonts/Manrope-Bold.woff2') format('woff2'),
+    url('assets/fonts/Manrope-Bold.woff') format('woff'),
+    url('assets/fonts/Manrope-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  /* Colors */
+  --main-color: linear-gradient(to bottom, #227e22, #49912f, #70a43b);
+  --bg-navbar: #faf5ea;
+  --bg-main-content-top: linear-gradient(80deg, #2e792b, #609830, #81ab32);
+  /* Fonts */
+  --navbar-font: 'Montserrat', 'Arial', sans-serif;
+  --hero-font: 'Montserrat', 'Georgia', serif;
+  --description-font: 'Manrope', 'Verdana', sans-serif;
+  --content-button-font: 'Montserrat', 'Tahoma', sans-serif;
+  /* Size */
+  --navbar-txt: 16px;
+  --hero-txt: 32px;
+  --description-txt: 15px;
+  --content-button-text: 20px;
+  --copyright-txt: 12px;
+}
